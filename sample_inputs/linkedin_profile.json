@@ -1,0 +1,44 @@
+{
+  "firstName": "Priya",
+  "lastName": "Sharma",
+  "headline": "Senior Software Engineer at Google | IIT Bombay | ML & Distributed Systems",
+  "emailAddress": "priya.sharma@email.com",
+  "location": {
+    "name": "Bengaluru, Karnataka",
+    "country": "India"
+  },
+  "positions": [
+    {
+      "title": "Senior Software Engineer",
+      "company": "Google",
+      "startDate": {"year": 2020, "month": 3},
+      "endDate": null,
+      "description": "Tech Lead for Search Platform. Leading a team of 6 engineers building distributed indexing systems."
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Flipkart",
+      "startDate": {"year": 2017, "month": 6},
+      "endDate": {"year": 2020, "month": 2},
+      "description": "Built real-time recommendation engine. Improved conversion by 23%."
+    }
+  ],
+  "education": [
+    {
+      "school": "Indian Institute of Technology, Bombay",
+      "degree": "Bachelor of Technology",
+      "fieldOfStudy": "Computer Science and Engineering",
+      "endYear": 2017
+    }
+  ],
+  "skills": [
+    {"name": "Python"},
+    {"name": "React.js"},
+    {"name": "Machine Learning"},
+    {"name": "Distributed Systems"},
+    {"name": "Kubernetes"},
+    {"name": "Go"},
+    {"name": "TensorFlow"}
+  ],
+  "publicProfileUrl": "https://linkedin.com/in/priyasharma"
+}

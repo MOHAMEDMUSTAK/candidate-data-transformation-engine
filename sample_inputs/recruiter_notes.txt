@@ -1,0 +1,25 @@
+Candidate: Priya Sharma
+
+Spoke with Priya on phone. Very strong candidate. 
+Currently at Google in Bangalore working on search infrastructure.
+Has 8 years of experience overall.
+
+Phone: 98765-43210
+Email: priya.sharma@email.com
+
+Skills observed during conversation:
+- Excellent communication
+- Deep knowledge of Python and machine learning
+- Experience with React and frontend development
+- Strong system design skills
+- Has worked with AWS and Docker
+
+Notes:
+- Looking for senior/staff level roles
+- Open to relocation
+- Available to start in 30 days
+- Salary expectation: competitive with top tier
+- References available from current manager
+
+Previous experience at Flipkart before Google.
+IIT Bombay graduate, CS department.

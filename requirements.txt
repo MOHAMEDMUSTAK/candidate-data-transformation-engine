@@ -1,0 +1,36 @@
+# Eightfold AI - Multi-Source Candidate Data Transformation Engine
+# Production Dependencies
+
+# Web Framework
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+
+# Validation
+pydantic==2.10.4
+pydantic-settings==2.7.1
+
+# File Processing
+pandas==2.2.3
+PyPDF2==3.0.1
+python-docx==1.1.2
+openpyxl==3.1.5
+
+# Phone Normalization
+phonenumbers==8.13.52
+
+# Date Parsing
+python-dateutil==2.9.0.post0
+
+# Country Code Normalization
+pycountry==24.6.1
+
+# CORS
+python-multipart==0.0.20
+
+# Testing
+pytest==8.3.4
+pytest-asyncio==0.25.0
+httpx==0.28.1
+
+# Logging
+structlog==24.4.0

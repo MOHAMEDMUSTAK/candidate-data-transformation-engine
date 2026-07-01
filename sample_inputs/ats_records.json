@@ -1,0 +1,42 @@
+{
+  "candidates": [
+    {
+      "candidateName": "Priya Sharma",
+      "emailAddress": "p.sharma@gmail.com",
+      "phoneNumber": "+919876543210",
+      "jobTitle": "Senior Software Engineer",
+      "currentCompany": "Google India",
+      "locationCity": "Bengaluru",
+      "locationState": "Karnataka",
+      "countryCode": "IN",
+      "yearsExperience": 8,
+      "skillList": ["Python", "React", "Machine Learning", "Kubernetes", "GCP", "System Design"],
+      "workExperience": [
+        {
+          "companyName": "Google India",
+          "position": "Senior Software Engineer",
+          "startDate": {"year": 2020, "month": 3},
+          "endDate": null,
+          "description": "Leading backend platform team for Search infrastructure"
+        },
+        {
+          "companyName": "Flipkart",
+          "position": "Software Engineer",
+          "startDate": {"year": 2017, "month": 6},
+          "endDate": {"year": 2020, "month": 2},
+          "description": "Built recommendation engine serving 100M+ users"
+        }
+      ],
+      "educationHistory": [
+        {
+          "schoolName": "IIT Bombay",
+          "degreeName": "B.Tech",
+          "fieldOfStudy": "Computer Science",
+          "endYear": 2017
+        }
+      ],
+      "linkedinUrl": "https://linkedin.com/in/priyasharma",
+      "githubUrl": "https://github.com/priyasharma"
+    }
+  ]
+}

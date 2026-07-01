@@ -1,0 +1,4 @@
+name,email,phone,current_title,current_company,skills,city,country,years_experience,linkedin
+Priya Sharma,priya.sharma@email.com,98765-43210,Senior Software Engineer,Google,"Python, ReactJS, Machine Learning, Docker, AWS",Bangalore,India,8,https://linkedin.com/in/priyasharma
+Rahul Mehta,rahul.mehta@company.com,+91-9988776655,Full Stack Developer,Microsoft,"JavaScript, Node.js, React, MongoDB, TypeScript",Mumbai,India,5,https://linkedin.com/in/rahulmehta
+Anita Desai,anita.d@techcorp.io,011-2345-6789,Data Scientist,Amazon,"Python3, ML, TensorFlow, Pandas, SQL, Deep Learning",Delhi,IN,6,https://linkedin.com/in/anitadesai
